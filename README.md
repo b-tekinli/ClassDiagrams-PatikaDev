@@ -3,13 +3,13 @@
 
 ## Task 1 - University Management Class Diagram
 
-![UniversityManagement](https://github.com/b-tekinli/PatikaDev-Task/blob/main/ClassDiagram/UniversityManagement/UniversityManagementClassDiagram.png)
+![UniversityManagementSystem](https://github.com/b-tekinli/PatikaDev-Task/blob/main/ClassDiagram/UniversityManagementSystem/UniversityManagementSystemClassDiagram.png)
 
 <br />
 
 ## Task 2 - Zoo Management Class Diagram
 
-![ZooManagement](https://github.com/b-tekinli/PatikaDev-Task/blob/main/ClassDiagram/ZooManagement/ZooManagementClassDiagram.png)
+![ZooManagementSystem](https://github.com/b-tekinli/PatikaDev-Task/blob/main/ClassDiagram/ZooManagement/ZooManagementClassDiagram.png)
 
 <br />
 
