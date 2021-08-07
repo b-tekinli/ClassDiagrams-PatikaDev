@@ -13,7 +13,7 @@
 
 Not : Sınıflara ait nitelik ve davranışların belirtilmesine gerek yoktur
 
-:en:
+:usa:
 Homework - University Management System
 - There are classrooms, study offices and departments belonging to the university.
 - There are offices belonging to the departments.
