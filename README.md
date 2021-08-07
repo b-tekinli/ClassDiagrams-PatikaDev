@@ -3,7 +3,7 @@
 
 ## Task 1 - University Management Class Diagram
 
-:tr: ![tr](https://iconarchive.com/download/i109320/wikipedia/flags/TR-Turkey-Flag.ico) <br />
+:tr: <br />
 Ödev - Üniversite Yönetim Sistemi
 - Üniversiteye ait sınıflıklar, çalışma ofisleri ve departmanlar vardır.
 - Departmanlara ait ofisler vardır.
