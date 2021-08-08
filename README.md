@@ -3,7 +3,8 @@
 
 ## Task 1 - University Management Class Diagram
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Flag_of_Turkey.svg/1200px-Flag_of_Turkey.svg.png" width='75'> <br />
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Flag_of_Turkey.svg/1200px-Flag_of_Turkey.svg.png" width='75' height="auto"> 
+<br />
 Ödev - Üniversite Yönetim Sistemi
 - Üniversiteye ait sınıflıklar, çalışma ofisleri ve departmanlar vardır.
 - Departmanlara ait ofisler vardır.
@@ -13,9 +14,10 @@
 
 Not : Sınıflara ait nitelik ve davranışların belirtilmesine gerek yoktur
 
-<br /> <br />
+<br />
+<br />
 
-<img src="https://bewerbung.co/wp-content/uploads/2018/07/bewerbung-englisch.jpg" width='75'>
+<img src="https://bewerbung.co/wp-content/uploads/2018/07/bewerbung-englisch.jpg" width='75' height="auto">
 Homework - University Management System
 - There are classrooms, study offices and departments belonging to the university.
 - There are offices belonging to the departments.
