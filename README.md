@@ -6,6 +6,10 @@
 - [Task 4 - Online Movie System](https://github.com/b-tekinli/PatikaDev-Task#task-4---online-movie-system)
 - [Task 5 - Elevator Simulation](https://github.com/b-tekinli/PatikaDev-Task#task-5---elevator-simulation)
 
+
+<br />
+
+
 ## Task 1 - University Management Class Diagram
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Flag_of_Turkey.svg/1200px-Flag_of_Turkey.svg.png" width='61' height="auto">
@@ -35,6 +39,8 @@ Homework - University Management System <br />
 Draw the Class (Class) diagram describing this system.
 
 Note: It is not necessary to specify the attributes and properties of the classes.
+
+<br />
 
 ![UniversityManagementSystem](https://github.com/b-tekinli/PatikaDev-Task/blob/main/ClassDiagram/UniversityManagementSystem/UniversityManagementSystemClassDiagram.png)
 
@@ -100,6 +106,7 @@ Animals:
 
 Design a class diagram to handle the situation described above, using the polymorphism model.
 
+<br />
 
 ![ZooManagementSystem](https://github.com/b-tekinli/PatikaDev-Task/blob/main/ClassDiagram/ZooManagement/ZooManagementClassDiagram.png)
 
@@ -161,6 +168,7 @@ Design a system for the management of flights and pilots.
 
 Draw the Class diagram describing this system.
 
+<br />
 
 ![FlightManagementSystem](https://github.com/b-tekinli/PatikaDev-Task/blob/main/ClassDiagram/FlightManagementSystem/FlightManagementSystemClassDiagram.png)
 
@@ -210,6 +218,7 @@ Design the system of the application that sells or rents movies online.
 
 Draw the Class diagram describing this system. 
 
+<br />
 
 ![OnlineMovieSystem](https://github.com/b-tekinli/PatikaDev-Task/blob/main/ClassDiagram/OnlineMovieSystem/OnlineMovieSystemClassDiagram.png)
 
@@ -253,5 +262,6 @@ Design a class diagram based on the following problem statement. Try to use the 
 
 - The simulator uses a "clock" to simulate real time lapse and timestamp and log events that occur in the simulation. A random number generator is used by the simulator to generate passengers and determine the departure and arrival floors for each passenger. 
 
+<br />
 
 ![ElevatorSimulation](https://github.com/b-tekinli/PatikaDev-Task/blob/main/ClassDiagram/ElevatorSimulation/ElevatorSimulationSystemClassDiagram.png)
