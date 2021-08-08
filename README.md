@@ -91,15 +91,26 @@ Animals:
 
 ![ZooManagementSystem](https://github.com/b-tekinli/PatikaDev-Task/blob/main/ClassDiagram/ZooManagement/ZooManagementClassDiagram.png)
 
-<br />
+<br /> <br />
 
 ## Task 3 - Flight Management System
 
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Flag_of_Turkey.svg/1200px-Flag_of_Turkey.svg.png" width='61' height="auto">
+<img src="https://bewerbung.co/wp-content/uploads/2018/07/bewerbung-englisch.jpg" width='61'>
 ![FlightManagementSystem](https://github.com/b-tekinli/PatikaDev-Task/blob/main/ClassDiagram/FlightManagementSystem/FlightManagementSystemClassDiagram.png)
 
 <br />
 
 ## Task 4 - Online Movie System
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Flag_of_Turkey.svg/1200px-Flag_of_Turkey.svg.png" width='61' height="auto">
+<img src="https://bewerbung.co/wp-content/uploads/2018/07/bewerbung-englisch.jpg" width='61'>
 ![OnlineMovieSystem](https://github.com/b-tekinli/PatikaDev-Task/blob/main/ClassDiagram/OnlineMovieSystem/OnlineMovieSystemClassDiagram.png)
 
 
+## Task 5 - Elevator Simulation
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Flag_of_Turkey.svg/1200px-Flag_of_Turkey.svg.png" width='61' height="auto">
+<img src="https://bewerbung.co/wp-content/uploads/2018/07/bewerbung-englisch.jpg" width='61'>
+
+![ElevatorSimulation]()
