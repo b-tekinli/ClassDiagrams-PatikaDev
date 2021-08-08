@@ -106,6 +106,8 @@ Design a class diagram to handle the situation described above, using the polymo
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Flag_of_Turkey.svg/1200px-Flag_of_Turkey.svg.png" width='61' height="auto">
 
+Ödev - Uçuş Yönetim Sistemi <br />
+
 Uçuşların ve pilotların yönetimi için bir sistem tasarlayın.
 
 - Hava yolu şirketleri uçuşları gerçekleştirir. Her hava yolunun bir kimliği vardır.
@@ -131,6 +133,8 @@ Bu sistemi tasvir eden Class(Sınıf) diyagramını çiziniz.
 
 
 <img src="https://bewerbung.co/wp-content/uploads/2018/07/bewerbung-englisch.jpg" width='61'>
+
+Homework - Flight Management System <br />
 
 Design a system for the management of flights and pilots.
 
