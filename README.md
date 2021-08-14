@@ -16,9 +16,7 @@
 <br />
 
 
-<details>
-  
-  <summary>📚 University Management Class Diagram </summary>
+<summary>📚 University Management Class Diagram </summary>
   
 ## Task 1 - University Management Class Diagram
 
@@ -35,7 +33,7 @@ Bu sistemi tasvir eden Class (Sınıf) diyagramını çiziniz.
 Not : Sınıflara ait nitelik ve davranışların belirtilmesine gerek yoktur.
 
 
-<br /> <br />
+<br />
 
 
 <img src="https://bewerbung.co/wp-content/uploads/2018/07/bewerbung-englisch.jpg" width='61'>
@@ -54,15 +52,11 @@ Note: It is not necessary to specify the attributes and properties of the classe
 
 ![UniversityManagementSystem](https://github.com/b-tekinli/PatikaDev-Task/blob/main/ClassDiagram/UniversityManagementSystem/UniversityManagementSystemClassDiagram.png)
 
-</details>
+
+<br />
 
 
-<br /> <br />
-
-
-<details>
-  
-  <summary>:dog: Zoo Management Class Diagram </summary>
+<summary>:dog: Zoo Management Class Diagram </summary>
 
 ## Task 2 - Zoo Management Class Diagram
 
@@ -129,12 +123,10 @@ Design a class diagram to handle the situation described above, using the polymo
 </details>
   
 
-<br /> <br />
+<br />
 
 
-<details>
-  
-  <summary>:airplane: Flight Management Class Diagram </summary>
+<summary>:airplane: Flight Management Class Diagram </summary>
 
 ## Task 3 - Flight Management System
 
@@ -194,14 +186,11 @@ Draw the Class diagram describing this system.
 
 ![FlightManagementSystem](https://github.com/b-tekinli/PatikaDev-Task/blob/main/ClassDiagram/FlightManagementSystem/FlightManagementSystemClassDiagram.png)
 
-</details>
+
+<br />
 
 
-<br /> <br />
-
-<details>
-  
-  <summary>:movie_camera: Online Movie Class Diagram </summary>
+<summary>:movie_camera: Online Movie Class Diagram </summary>
 
 ## Task 4 - Online Movie System
 
@@ -224,7 +213,7 @@ Online film satan veya kiralayan uygulamanın sistemini tasarlayın.
 Bu sistemi tasvir eden Class(Sınıf) diyagramını çiziniz.
 
 
-<br /> <br />
+<br />
 
 
 <img src="https://bewerbung.co/wp-content/uploads/2018/07/bewerbung-englisch.jpg" width='61'>
@@ -249,13 +238,10 @@ Draw the Class diagram describing this system.
 
 ![OnlineMovieSystem](https://github.com/b-tekinli/PatikaDev-Task/blob/main/ClassDiagram/OnlineMovieSystem/OnlineMovieSystemClassDiagram.png)
 
-</details>
 
-<br /> <br />
+<br />
 
-<details>
-  
-  <summary>:rocket: Online Movie Class Diagram </summary>
+<summary>:rocket: Online Movie Class Diagram </summary>
 
 ## Task 5 - Elevator Simulation
 
@@ -275,7 +261,7 @@ Aşağıdaki problem ifadesine göre bir sınıf diyagramı tasarlayın. Nesne Y
 
 - Simülatör, gerçek zaman geçişini simüle etmek ve simülasyonda meydana gelen olayları zaman damgası ve günlüğe kaydetmek için bir "saat" kullanır. Simülatör tarafından yolcu oluşturmak ve her yolcu için kalkış ve varış katlarını belirlemek için rastgele bir sayı üreteci kullanılır.
 
-<br /> <br />
+<br />
 
 <img src="https://bewerbung.co/wp-content/uploads/2018/07/bewerbung-englisch.jpg" width='61'>
 
@@ -296,5 +282,3 @@ Design a class diagram based on the following problem statement. Try to use the 
 <br />
 
 ![ElevatorSimulation](https://github.com/b-tekinli/PatikaDev-Task/blob/main/ClassDiagram/ElevatorSimulation/ElevatorSimulationSystemClassDiagram.png)
-
-  </details>
