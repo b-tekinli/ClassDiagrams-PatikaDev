@@ -2,7 +2,7 @@
 
 <details>
   
-  <summary>:hammer_and_wrench: CRUD</summary>
+  <summary>:zap: CLASS DİAGRAM</summary>
   
 - [Task 1 - University Management Class Diagram](https://github.com/b-tekinli/PatikaDev-Task#task-1---university-management-class-diagram)
 - [Task 2 - Zoo Management Class Diagram](https://github.com/b-tekinli/PatikaDev-Task#task-2---zoo-management-class-diagram)
@@ -12,9 +12,14 @@
   
 </details>
 
+
 <br />
 
 
+<details>
+  
+  <summary>📚 University Management Class Diagram </summary>
+  
 ## Task 1 - University Management Class Diagram
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Flag_of_Turkey.svg/1200px-Flag_of_Turkey.svg.png" width='61' height="auto">
@@ -49,9 +54,15 @@ Note: It is not necessary to specify the attributes and properties of the classe
 
 ![UniversityManagementSystem](https://github.com/b-tekinli/PatikaDev-Task/blob/main/ClassDiagram/UniversityManagementSystem/UniversityManagementSystemClassDiagram.png)
 
+</details>
+
 
 <br /> <br />
 
+
+<details>
+  
+  <summary>:dog: Zoo Management Class Diagram </summary>
 
 ## Task 2 - Zoo Management Class Diagram
 
@@ -115,9 +126,15 @@ Design a class diagram to handle the situation described above, using the polymo
 
 ![ZooManagementSystem](https://github.com/b-tekinli/PatikaDev-Task/blob/main/ClassDiagram/ZooManagement/ZooManagementClassDiagram.png)
 
+</details>
+  
 
 <br /> <br />
 
+
+<details>
+  
+  <summary>:airplane: Flight Management Class Diagram </summary>
 
 ## Task 3 - Flight Management System
 
@@ -177,9 +194,14 @@ Draw the Class diagram describing this system.
 
 ![FlightManagementSystem](https://github.com/b-tekinli/PatikaDev-Task/blob/main/ClassDiagram/FlightManagementSystem/FlightManagementSystemClassDiagram.png)
 
+</details>
+
 
 <br /> <br />
 
+<details>
+  
+  <summary>:movie_camera: Online Movie System Class Diagram </summary>
 
 ## Task 4 - Online Movie System
 
@@ -227,9 +249,13 @@ Draw the Class diagram describing this system.
 
 ![OnlineMovieSystem](https://github.com/b-tekinli/PatikaDev-Task/blob/main/ClassDiagram/OnlineMovieSystem/OnlineMovieSystemClassDiagram.png)
 
+</details>
 
 <br /> <br />
 
+<details>
+  
+  <summary>:rocket: Online Movie System Class Diagram </summary>
 
 ## Task 5 - Elevator Simulation
 
@@ -270,3 +296,5 @@ Design a class diagram based on the following problem statement. Try to use the 
 <br />
 
 ![ElevatorSimulation](https://github.com/b-tekinli/PatikaDev-Task/blob/main/ClassDiagram/ElevatorSimulation/ElevatorSimulationSystemClassDiagram.png)
+
+  </details>
