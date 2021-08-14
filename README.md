@@ -1,6 +1,14 @@
 # TASKS
 
+## CLASS-DIAGRAMS
 - [Task 1 - University Management Class Diagram](https://github.com/b-tekinli/PatikaDev-Task#task-1---university-management-class-diagram)
+- [Task 2 - Zoo Management Class Diagram](https://github.com/b-tekinli/PatikaDev-Task#task-2---zoo-management-class-diagram)
+- [Task 3 - Flight Management System](https://github.com/b-tekinli/PatikaDev-Task#task-3---flight-management-system)
+- [Task 4 - Online Movie System](https://github.com/b-tekinli/PatikaDev-Task#task-4---online-movie-system)
+- [Task 5 - Elevator Simulation](https://github.com/b-tekinli/PatikaDev-Task#task-5---elevator-simulation)
+
+<details>
+ <summary>:zap: CLASS DIAGRAMS </summary>
 
 ## Task 1 - University Management Class Diagram
 
@@ -35,9 +43,6 @@ Note: It is not necessary to specify the attributes and properties of the classe
 ![UniversityManagementSystem](https://github.com/b-tekinli/PatikaDev-Task/blob/main/ClassDiagram/UniversityManagementSystem/UniversityManagementSystemClassDiagram.png)
     
 <br />
-
-
-- [Task 2 - Zoo Management Class Diagram](https://github.com/b-tekinli/PatikaDev-Task#task-2---zoo-management-class-diagram)
 
 ## Task 2 - Zoo Management Class Diagram
 
@@ -105,8 +110,6 @@ Design a class diagram to handle the situation described above, using the polymo
  <br />
 
 
-- [Task 3 - Flight Management System](https://github.com/b-tekinli/PatikaDev-Task#task-3---flight-management-system)
-
 ## Task 3 - Flight Management System
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Flag_of_Turkey.svg/1200px-Flag_of_Turkey.svg.png" width='61' height="auto">
@@ -169,8 +172,6 @@ Draw the Class diagram describing this system.
 <br />
 
 
-- [Task 4 - Online Movie System](https://github.com/b-tekinli/PatikaDev-Task#task-4---online-movie-system)
-
 ## Task 4 - Online Movie System
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Flag_of_Turkey.svg/1200px-Flag_of_Turkey.svg.png" width='61' height="auto">
@@ -220,8 +221,6 @@ Draw the Class diagram describing this system.
 
 <br />
 
-
-- [Task 5 - Elevator Simulation](https://github.com/b-tekinli/PatikaDev-Task#task-5---elevator-simulation)
 
 ## Task 5 - Elevator Simulation
 
