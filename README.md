@@ -1,11 +1,16 @@
 # TASKS
 
+<details>
+  
+  <summary>:hammer_and_wrench: CRUD</summary>
+  
 - [Task 1 - University Management Class Diagram](https://github.com/b-tekinli/PatikaDev-Task#task-1---university-management-class-diagram)
 - [Task 2 - Zoo Management Class Diagram](https://github.com/b-tekinli/PatikaDev-Task#task-2---zoo-management-class-diagram)
 - [Task 3 - Flight Management System](https://github.com/b-tekinli/PatikaDev-Task#task-3---flight-management-system)
 - [Task 4 - Online Movie System](https://github.com/b-tekinli/PatikaDev-Task#task-4---online-movie-system)
 - [Task 5 - Elevator Simulation](https://github.com/b-tekinli/PatikaDev-Task#task-5---elevator-simulation)
-
+  
+</details>
 
 <br />
 
