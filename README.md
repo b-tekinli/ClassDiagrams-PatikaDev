@@ -201,7 +201,7 @@ Draw the Class diagram describing this system.
 
 <details>
   
-  <summary>:movie_camera: Online Movie System Class Diagram </summary>
+  <summary>:movie_camera: Online Movie Class Diagram </summary>
 
 ## Task 4 - Online Movie System
 
@@ -255,7 +255,7 @@ Draw the Class diagram describing this system.
 
 <details>
   
-  <summary>:rocket: Online Movie System Class Diagram </summary>
+  <summary>:rocket: Online Movie Class Diagram </summary>
 
 ## Task 5 - Elevator Simulation
 
