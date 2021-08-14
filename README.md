@@ -1,6 +1,6 @@
 # TASKS
 
-## CLASS-DIAGRAMS
+### CLASS-DIAGRAMS
 - [Task 1 - University Management Class Diagram](https://github.com/b-tekinli/PatikaDev-Task#task-1---university-management-class-diagram)
 - [Task 2 - Zoo Management Class Diagram](https://github.com/b-tekinli/PatikaDev-Task#task-2---zoo-management-class-diagram)
 - [Task 3 - Flight Management System](https://github.com/b-tekinli/PatikaDev-Task#task-3---flight-management-system)
