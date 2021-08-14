@@ -12,11 +12,10 @@
   
 </details>
 
-
 <br />
 
-
-<summary>📚 University Management Class Diagram </summary>
+  <details>
+    <summary>📚 University Management Class Diagram </summary>
   
 ## Task 1 - University Management Class Diagram
 
@@ -52,6 +51,7 @@ Note: It is not necessary to specify the attributes and properties of the classe
 
 ![UniversityManagementSystem](https://github.com/b-tekinli/PatikaDev-Task/blob/main/ClassDiagram/UniversityManagementSystem/UniversityManagementSystemClassDiagram.png)
 
+    </details>
 
 <br />
 
