@@ -1,21 +1,18 @@
 # TASKS
 
-- [Task 1 - University Management Class Diagram](https://github.com/b-tekinli/PatikaDev-Task#task-1---university-management-class-diagram)
-- [Task 2 - Zoo Management Class Diagram](https://github.com/b-tekinli/PatikaDev-Task#task-2---zoo-management-class-diagram)
-- [Task 3 - Flight Management System](https://github.com/b-tekinli/PatikaDev-Task#task-3---flight-management-system)
-- [Task 4 - Online Movie System](https://github.com/b-tekinli/PatikaDev-Task#task-4---online-movie-system)
-- [Task 5 - Elevator Simulation](https://github.com/b-tekinli/PatikaDev-Task#task-5---elevator-simulation)
+<details>
+  <summary>:zap: CLASS DİAGRAM </summary>
   
-</details>
+- [Task 1 - University Management Class Diagram](https://github.com/b-tekinli/PatikaDev-Task#task-1---university-management-class-diagram)
+  
+  <details>
+    <summary>:zap: University Management </summary>
+    ## Task 1 - University Management Class Diagram
 
-<br />
-
-## Task 1 - University Management Class Diagram
-
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Flag_of_Turkey.svg/1200px-Flag_of_Turkey.svg.png" width='61' height="auto">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Flag_of_Turkey.svg/1200px-      Flag_of_Turkey.svg.png" width='61' height="auto">
 
 Ödev - Üniversite Yönetim Sistemi <br />
-
+ 
 - Üniversiteye ait sınıflıklar, çalışma ofisleri ve departmanlar vardır.
 - Departmanlara ait ofisler vardır.
 - Üniversiteye ait çalışanlar vardır. Bu çalışanlar profesör veya memur olabilir.
@@ -43,6 +40,17 @@ Note: It is not necessary to specify the attributes and properties of the classe
 <br />
 
 ![UniversityManagementSystem](https://github.com/b-tekinli/PatikaDev-Task/blob/main/ClassDiagram/UniversityManagementSystem/UniversityManagementSystemClassDiagram.png)
+    
+- [Task 2 - Zoo Management Class Diagram](https://github.com/b-tekinli/PatikaDev-Task#task-2---zoo-management-class-diagram)
+- [Task 3 - Flight Management System](https://github.com/b-tekinli/PatikaDev-Task#task-3---flight-management-system)
+- [Task 4 - Online Movie System](https://github.com/b-tekinli/PatikaDev-Task#task-4---online-movie-system)
+- [Task 5 - Elevator Simulation](https://github.com/b-tekinli/PatikaDev-Task#task-5---elevator-simulation)
+  
+</details>
+
+<br />
+
+
 
 
 <br />
