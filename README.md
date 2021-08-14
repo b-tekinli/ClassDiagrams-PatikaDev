@@ -1,125 +1,108 @@
 # TASKS
 
-<details>
-  <summary>:zap: CLASS DİAGRAM </summary>
-  
-  <details>
-    <summary>📚 University Management </summary>
+- [Task 1 - University Management Class Diagram](https://github.com/b-tekinli/PatikaDev-Task#task-1---university-management-class-diagram)
+- [Task 2 - Zoo Management Class Diagram](https://github.com/b-tekinli/PatikaDev-Task#task-2---zoo-management-class-diagram)
     
-    - [Task 1 - University Management Class Diagram](https://github.com/b-tekinli/PatikaDev-Task#task-1---university-management-class-diagram)
-    
-    - Task 1 - University Management Class Diagram
+- Task 1 - University Management Class Diagram
 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Flag_of_Turkey.svg/1200px-Flag_of_Turkey.svg.png" width='61' height="auto">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Flag_of_Turkey.svg/1200px-Flag_of_Turkey.svg.png" width='61' height="auto">
 
-    Ödev - Üniversite Yönetim Sistemi <br />
+Ödev - Üniversite Yönetim Sistemi <br />
  
-    - Üniversiteye ait sınıflıklar, çalışma ofisleri ve departmanlar vardır.
-    - Departmanlara ait ofisler vardır.
-    - Üniversiteye ait çalışanlar vardır. Bu çalışanlar profesör veya memur olabilir.
-    - Her çalışan bir ofiste çalışır.
-    Bu sistemi tasvir eden Class (Sınıf) diyagramını çiziniz.
+- Üniversiteye ait sınıflıklar, çalışma ofisleri ve departmanlar vardır.
+- Departmanlara ait ofisler vardır.
+- Üniversiteye ait çalışanlar vardır. Bu çalışanlar profesör veya memur olabilir.
+- Her çalışan bir ofiste çalışır.
+Bu sistemi tasvir eden Class (Sınıf) diyagramını çiziniz.
+ 
+Not : Sınıflara ait nitelik ve davranışların belirtilmesine gerek yoktur.
 
-    Not : Sınıflara ait nitelik ve davranışların belirtilmesine gerek yoktur.
+<br />
 
-    <br />
+<img src="https://bewerbung.co/wp-content/uploads/2018/07/bewerbung-englisch.jpg" width='61'>
 
-    <img src="https://bewerbung.co/wp-content/uploads/2018/07/bewerbung-englisch.jpg" width='61'>
+Homework - University Management System <br />
 
-    Homework - University Management System <br />
+- There are classrooms, study offices and departments belonging to the university.
+- There are offices belonging to the departments.
+- It belongs to the university. It could be male or female.
+- His employee is running in an office.
+Draw the Class (Class) diagram describing this system.
 
-    - There are classrooms, study offices and departments belonging to the university.
-    - There are offices belonging to the departments.
-    - It belongs to the university. It could be male or female.
-    - His employee is running in an office.
-    Draw the Class (Class) diagram describing this system.
+Note: It is not necessary to specify the attributes and properties of the classes.
 
-    Note: It is not necessary to specify the attributes and properties of the classes.
+<br />
 
-    <br />
-
-    ![UniversityManagementSystem](https://github.com/b-tekinli/PatikaDev-Task/blob/main/ClassDiagram/UniversityManagementSystem/UniversityManagementSystemClassDiagram.png)
+![UniversityManagementSystem](https://github.com/b-tekinli/PatikaDev-Task/blob/main/ClassDiagram/UniversityManagementSystem/UniversityManagementSystemClassDiagram.png)
     
  <br />
     
-- [Task 2 - Zoo Management Class Diagram](https://github.com/b-tekinli/PatikaDev-Task#task-2---zoo-management-class-diagram)
-    <details>
-      <summary>:dog: Zoo Management</summary>
-      - Task 2 - Zoo Management Class Diagram
 
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Flag_of_Turkey.svg/1200px-Flag_of_Turkey.svg.png" width='61' height="auto">
+- Task 2 - Zoo Management Class Diagram
 
-      Ödev - Hayvanat Bahçesi <br />
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Flag_of_Turkey.svg/1200px-Flag_of_Turkey.svg.png" width='61' height="auto">
 
-      Bir hayvanat bahçesindeki hayvanlar hakkındaki bilgileri takip etmek için bir sistem tasarlıyorsunuz.
+Ödev - Hayvanat Bahçesi <br />
 
-      Hayvanlar:
+Bir hayvanat bahçesindeki hayvanlar hakkındaki bilgileri takip etmek için bir sistem tasarlıyorsunuz.
 
-      - Atlar (atlar, zebralar, eşekler vb.),
+Hayvanlar:
 
-      - Kedigiller (kaplanlar, aslanlar vb.),
+- Atlar (atlar, zebralar, eşekler vb.),
 
-      - Kemirgenler (sıçanlar, kunduzlar vb.) gibi gruplardaki türlerle karakterize edilir.
+- Kedigiller (kaplanlar, aslanlar vb.),
 
-      - Hayvanlar hakkında depolanan bilgilerin çoğu tüm gruplamalar için aynıdır.
+- Kemirgenler (sıçanlar, kunduzlar vb.) gibi gruplardaki türlerle karakterize edilir.
 
-      - Tür adı, ağırlığı, yaşı vb.
+- Hayvanlar hakkında depolanan bilgilerin çoğu tüm gruplamalar için aynıdır.
 
-      - Sistem ayrıca her hayvan için belirli ilaçların dozajını alabilmeli => getDosage ()
+- Tür adı, ağırlığı, yaşı vb.
 
-      - Sistem Yem verme zamanlarını hesaplayabilmelidir => getFeedSchedule ()
+- Sistem ayrıca her hayvan için belirli ilaçların dozajını alabilmeli => getDosage ()
 
-      - Sistemin bu işlevleri yerine getirme mantığı, her gruplama için farklı olacaktır. Örneğin, atlar için yem verme algoritması farklı olup, kaplanlar için farklı olacaktır.
+- Sistem Yem verme zamanlarını hesaplayabilmelidir => getFeedSchedule ()
 
-      Polimorfizm modelini kullanarak, yukarıda açıklanan durumu ele almak için bir sınıf diyagramı tasarlayın.
+- Sistemin bu işlevleri yerine getirme mantığı, her gruplama için farklı olacaktır. Örneğin, atlar için yem verme algoritması farklı olup, kaplanlar için farklı olacaktır.
+
+Polimorfizm modelini kullanarak, yukarıda açıklanan durumu ele almak için bir sınıf diyagramı tasarlayın.
 
 
-      <br /> <br />
+<br /> <br />
 
 
-      <img src="https://bewerbung.co/wp-content/uploads/2018/07/bewerbung-englisch.jpg" width='61'>
+<img src="https://bewerbung.co/wp-content/uploads/2018/07/bewerbung-englisch.jpg" width='61'>
 
-      Homework - Zoo Management System <br />
+Homework - Zoo Management System <br />
 
-      You design a system to track information about animals in a zoo.
+You design a system to track information about animals in a zoo.
 
-      Animals:
+Animals:
 
-      - Horses (horses, zebras, donkeys, etc.),
+- Horses (horses, zebras, donkeys, etc.),
 
-      - Felines (tigers, lions, etc.),
+- Felines (tigers, lions, etc.),
 
-      - Characterized by species in groups such as rodents (rats, beavers, etc.).
+- Characterized by species in groups such as rodents (rats, beavers, etc.).
 
-      - Most of the information stored about animals is the same for all groupings.
+- Most of the information stored about animals is the same for all groupings.
 
-      - Species name, weight, age, etc.
+- Species name, weight, age, etc.
 
-      - The system should also be able to get the dosage of specific drugs for each animal => getDosage()
+- The system should also be able to get the dosage of specific drugs for each animal => getDosage()
 
-      - System should be able to calculate Feed times => getFeedSchedule()
+- System should be able to calculate Feed times => getFeedSchedule()
 
-      - The logic of the system to perform these functions will be different for each grouping. For example, the feeding algorithm will be different for horses and different for tigers.
+- The logic of the system to perform these functions will be different for each grouping. For example, the feeding algorithm will be different for horses and different for tigers.
 
-      Design a class diagram to handle the situation described above, using the polymorphism model.
+Design a class diagram to handle the situation described above, using the polymorphism model.
 
-      <br />
+<br />
 
-      ![ZooManagementSystem](https://github.com/b-tekinli/PatikaDev-Task/blob/main/ClassDiagram/ZooManagement/ZooManagementClassDiagram.png)
+![ZooManagementSystem](https://github.com/b-tekinli/PatikaDev-Task/blob/main/ClassDiagram/ZooManagement/ZooManagementClassDiagram.png)
       
  <br />
      
 - [Task 3 - Flight Management System](https://github.com/b-tekinli/PatikaDev-Task#task-3---flight-management-system)
-      
-- [Task 4 - Online Movie System](https://github.com/b-tekinli/PatikaDev-Task#task-4---online-movie-system)
-- [Task 5 - Elevator Simulation](https://github.com/b-tekinli/PatikaDev-Task#task-5---elevator-simulation)
-  
-</details>
-
-
-
-<br />
-
 
 ## Task 3 - Flight Management System
 
@@ -179,9 +162,9 @@ Draw the Class diagram describing this system.
 
 ![FlightManagementSystem](https://github.com/b-tekinli/PatikaDev-Task/blob/main/ClassDiagram/FlightManagementSystem/FlightManagementSystemClassDiagram.png)
 
-
 <br />
 
+- [Task 4 - Online Movie System](https://github.com/b-tekinli/PatikaDev-Task#task-4---online-movie-system)
 
 ## Task 4 - Online Movie System
 
@@ -232,6 +215,7 @@ Draw the Class diagram describing this system.
 
 <br />
 
+- [Task 5 - Elevator Simulation](https://github.com/b-tekinli/PatikaDev-Task#task-5---elevator-simulation)
 
 ## Task 5 - Elevator Simulation
 
@@ -272,3 +256,5 @@ Design a class diagram based on the following problem statement. Try to use the 
 <br />
 
 ![ElevatorSimulation](https://github.com/b-tekinli/PatikaDev-Task/blob/main/ClassDiagram/ElevatorSimulation/ElevatorSimulationSystemClassDiagram.png)
+
+</details>
