@@ -1,9 +1,8 @@
 # TASKS
 
 - [Task 1 - University Management Class Diagram](https://github.com/b-tekinli/PatikaDev-Task#task-1---university-management-class-diagram)
-- [Task 2 - Zoo Management Class Diagram](https://github.com/b-tekinli/PatikaDev-Task#task-2---zoo-management-class-diagram)
-    
-- Task 1 - University Management Class Diagram
+
+## Task 1 - University Management Class Diagram
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Flag_of_Turkey.svg/1200px-Flag_of_Turkey.svg.png" width='61' height="auto">
 
@@ -17,7 +16,7 @@ Bu sistemi tasvir eden Class (Sınıf) diyagramını çiziniz.
  
 Not : Sınıflara ait nitelik ve davranışların belirtilmesine gerek yoktur.
 
-<br />
+<br /> <br />
 
 <img src="https://bewerbung.co/wp-content/uploads/2018/07/bewerbung-englisch.jpg" width='61'>
 
@@ -35,10 +34,12 @@ Note: It is not necessary to specify the attributes and properties of the classe
 
 ![UniversityManagementSystem](https://github.com/b-tekinli/PatikaDev-Task/blob/main/ClassDiagram/UniversityManagementSystem/UniversityManagementSystemClassDiagram.png)
     
- <br />
-    
+<br />
 
-- Task 2 - Zoo Management Class Diagram
+
+- [Task 2 - Zoo Management Class Diagram](https://github.com/b-tekinli/PatikaDev-Task#task-2---zoo-management-class-diagram)
+
+## Task 2 - Zoo Management Class Diagram
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Flag_of_Turkey.svg/1200px-Flag_of_Turkey.svg.png" width='61' height="auto">
 
@@ -100,8 +101,10 @@ Design a class diagram to handle the situation described above, using the polymo
 
 ![ZooManagementSystem](https://github.com/b-tekinli/PatikaDev-Task/blob/main/ClassDiagram/ZooManagement/ZooManagementClassDiagram.png)
       
+      
  <br />
-     
+
+
 - [Task 3 - Flight Management System](https://github.com/b-tekinli/PatikaDev-Task#task-3---flight-management-system)
 
 ## Task 3 - Flight Management System
@@ -162,7 +165,9 @@ Draw the Class diagram describing this system.
 
 ![FlightManagementSystem](https://github.com/b-tekinli/PatikaDev-Task/blob/main/ClassDiagram/FlightManagementSystem/FlightManagementSystemClassDiagram.png)
 
+
 <br />
+
 
 - [Task 4 - Online Movie System](https://github.com/b-tekinli/PatikaDev-Task#task-4---online-movie-system)
 
@@ -215,6 +220,7 @@ Draw the Class diagram describing this system.
 
 <br />
 
+
 - [Task 5 - Elevator Simulation](https://github.com/b-tekinli/PatikaDev-Task#task-5---elevator-simulation)
 
 ## Task 5 - Elevator Simulation
@@ -235,7 +241,7 @@ Aşağıdaki problem ifadesine göre bir sınıf diyagramı tasarlayın. Nesne Y
 
 - Simülatör, gerçek zaman geçişini simüle etmek ve simülasyonda meydana gelen olayları zaman damgası ve günlüğe kaydetmek için bir "saat" kullanır. Simülatör tarafından yolcu oluşturmak ve her yolcu için kalkış ve varış katlarını belirlemek için rastgele bir sayı üreteci kullanılır.
 
-<br />
+<br /> <br />
 
 <img src="https://bewerbung.co/wp-content/uploads/2018/07/bewerbung-englisch.jpg" width='61'>
 
